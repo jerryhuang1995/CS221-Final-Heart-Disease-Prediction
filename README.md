@@ -1,6 +1,6 @@
 # AI Engine for Heart Disease Prediction
 
-_Written in **Python3**. Using ** Scikit-learn/Keras** ML framework._
+_Written in **Python3**. Using **Scikit-learn/Keras** ML framework._
 
 ## Data
 - “Heart disease,” Mayo Clinic, 22-Mar-2018. [Online]. Available: https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118. [Accessed: 30-Nov-2019].
