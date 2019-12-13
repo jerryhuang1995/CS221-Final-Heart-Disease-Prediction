@@ -23,16 +23,22 @@ _Written in **Python3**. Using **Scikit-learn/Keras** ML framework._
   * Show that the dataset has bias and demonstrates the limitation of linear models
 - Continue to Non Linear Models : KNN / Kernelized SVM / Desision Tree / Random Forest / DNN
   * Show that non-linear models can learn a better expression of the model and get better performance
-- Test the generalization of model with an another unseen dataset
+- Test the generalization of model with another unseen dataset
   * Drop the last 3 features because most of the values of the last 3 features in the unseen dataset are unknown.
 - Metrics : Accuracy / Precision / Recall / F1 Score
 
 ## Commands
 
-- Get the experiment results of Perceptron 
+- Get the experiment results of Perceptron
 
 ```
 python3 perceptron_heart.py
+```
+
+- Get the coefficients and experiment results of Logistic Regression
+
+```
+python3 LR.py
 ```
 
 - Get the experiment results of KNN 
@@ -53,19 +59,13 @@ python3 kernelSVM.py
 python3 decisionTree.py
 ```
 
-- Get the experiment results of Random Forest Model
+- Get the experiment results of Random Forest
 
 ```
 python3 randomForest.py
 ```
 
-- Get the experiment results of Logistic Regression Model 
-
-```
-python3 LR.py
-```
-
-- Get the experiment results of Neural Network Model
+- Get the experiment results of Neural Network
 
 ```
 python3 NN.py
