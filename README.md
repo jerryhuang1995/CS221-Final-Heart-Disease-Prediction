@@ -70,3 +70,7 @@ python3 LR.py
 ```
 python3 NN.py
 ```
+
+## Results
+- Here is the link to the CodaLab worksheet, which demonstrates our executing results:
+  * https://worksheets.codalab.org/worksheets/0x62e448be3d0a4c44aca4027cc700d139
